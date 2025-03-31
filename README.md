@@ -1,3 +1,4 @@
+open readme then go to code then copy
 pip install tk
 pip install opencv-python
 pip install mediapipe
